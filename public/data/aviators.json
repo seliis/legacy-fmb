@@ -1,0 +1,38 @@
+[
+    {
+        "name": "miho",
+        "bort": "000",
+        "time": 0,
+        "sortie": 0,
+        "air": 0,
+        "gnd": 0,
+        "dead": 0
+    },
+    {
+        "name": "apex",
+        "bort": "000",
+        "time": 0,
+        "sortie": 0,
+        "air": 0,
+        "gnd": 0,
+        "dead": 0
+    },
+    {
+        "name": "mushroom",
+        "bort": "000",
+        "time": 0,
+        "sortie": 0,
+        "air": 0,
+        "gnd": 0,
+        "dead": 0
+    },
+    {
+        "name": "dexter",
+        "bort": "000",
+        "time": 0,
+        "sortie": 0,
+        "air": 0,
+        "gnd": 0,
+        "dead": 0
+    }
+]
